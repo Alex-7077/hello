@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="95954d1c-1040-4347-89b2-93b326c55e67" name="Changes" comment="eee">
-      <change afterPath="$PROJECT_DIR$/src/hello.java" afterDir="false" />
+    <list default="true" id="95954d1c-1040-4347-89b2-93b326c55e67" name="Changes" comment="eee 1123">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,11 +68,27 @@
       <option name="project" value="LOCAL" />
       <updated>1674736557593</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="eee 1">
+      <created>1674736804431</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674736804431</updated>
+    </task>
+    <task id="LOCAL-00003" summary="eee 1123">
+      <created>1674736897390</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674736897390</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="eee" />
-    <option name="LAST_COMMIT_MESSAGE" value="eee" />
+    <MESSAGE value="eee 1" />
+    <MESSAGE value="eee 1123" />
+    <option name="LAST_COMMIT_MESSAGE" value="eee 1123" />
   </component>
 </project>
